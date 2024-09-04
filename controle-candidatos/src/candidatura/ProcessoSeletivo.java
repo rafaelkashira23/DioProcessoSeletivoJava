@@ -8,7 +8,7 @@ public class ProcessoSeletivo {
 
 	public static void main(String[] args) {
 
-				
+				selecaoCandidatos();
 	}
 	
 	//método seleção dos candidatos com base nos salários
